@@ -8,7 +8,7 @@ edit ~/.config/nvim/autoload/plugins/nerdtree-git-plugin/nerdtree_plugin/git_sta
 
 copy and remove from line 87 to 89: 
 
-```
+```bash
 if !exists('g:NERDTreeGitStatusWithFlags')
   let g:NERDTreeGitStatusWithFlags = 1
 endif
