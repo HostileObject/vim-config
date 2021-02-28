@@ -1,1 +1,3 @@
 # neovim
+
+put into ~/.config/
