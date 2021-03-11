@@ -1,10 +1,10 @@
 # neovim
 
-put into ~/.config/
+put into ```~/.config/```
 
-open nvim, ignore errors and run :PlugInstall
+open nvim, ignore errors and run ```:PlugInstall```
 
-edit ~/.config/nvim/autoload/plugins/nerdtree-git-plugin/nerdtree_plugin/git_status.vim
+edit ```~/.config/nvim/autoload/plugins/nerdtree-git-plugin/nerdtree_plugin/git_status.vim```
 
 copy and remove from line 87 to 89: 
 
