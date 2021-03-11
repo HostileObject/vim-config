@@ -16,3 +16,6 @@ endif
 
 and paste it at the beginning of the file.
 
+To make all the extension function correctly you need to have ```node.js```, ```npm```, ```python3``` and ```pynvim```(pip3) installed.
+
+THIS CONFIGURATION IS FOR ```NVIM 0.4.4```.
