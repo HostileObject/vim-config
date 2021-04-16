@@ -17,4 +17,6 @@ let g:loaded_python_provider = 0
 
 filetype plugin on
 
+autocmd vimenter * ++nested colorscheme gruvbox
+
 set number
