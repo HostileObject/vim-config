@@ -1,6 +1,8 @@
 # neovim
 
-put into ```~/.config/```
+To make all the extension function correctly you need to have ```node.js```, ```npm```, ```python3``` and ```pynvim```(pip3) installed.
+
+clone into ```~/.config/```
 
 open nvim, ignore errors and run ```:PlugInstall```
 
@@ -15,7 +17,5 @@ endif
 ```
 
 and paste it at the beginning of the file.
-
-To make all the extension function correctly you need to have ```node.js```, ```npm```, ```python3``` and ```pynvim```(pip3) installed.
 
 THIS CONFIGURATION IS FOR ```NEOVIM 0.4.4```.
